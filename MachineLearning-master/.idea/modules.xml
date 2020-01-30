@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AccuracyFinder/AccuracyFinder.iml" filepath="$PROJECT_DIR$/AccuracyFinder/AccuracyFinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BalancedError/BalancedError.iml" filepath="$PROJECT_DIR$/BalancedError/BalancedError.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GiniIndex/GiniIndex.iml" filepath="$PROJECT_DIR$/GiniIndex/GiniIndex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KmeanAlgorithm/KmeanAlgorithm.iml" filepath="$PROJECT_DIR$/KmeanAlgorithm/KmeanAlgorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeastSquareAlgorithm/LeastSquareAlgorithm.iml" filepath="$PROJECT_DIR$/LeastSquareAlgorithm/LeastSquareAlgorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LogisticDiscriminationAlgorithm/LogisticDiscriminationAlgorithm.iml" filepath="$PROJECT_DIR$/LogisticDiscriminationAlgorithm/LogisticDiscriminationAlgorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MachineLearning.iml" filepath="$PROJECT_DIR$/MachineLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NaiveBayesAlgorithm/NaiveBayesAlgorithm.iml" filepath="$PROJECT_DIR$/NaiveBayesAlgorithm/NaiveBayesAlgorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NearestMeanAlgorithm/NearestMeanAlgorithm.iml" filepath="$PROJECT_DIR$/NearestMeanAlgorithm/NearestMeanAlgorithm.iml" />
+    </modules>
+  </component>
+</project>
